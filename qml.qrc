@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>mediaPlayer.qml</file>
+        <file>tuner.qml</file>
+        <file>nav.qml</file>
+        <file>nav.html</file>
+    </qresource>
+</RCC>
